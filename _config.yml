@@ -1,5 +1,5 @@
 # Site settings
-title: "Andy Boutte"
+title: "Oreoluwa Adesina"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -10,11 +10,11 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "Andy Boutte"
-resume_title:                   "Cloud Architect"
-resume_contact_email:           "andyboutte@gmail.com"
-resume_header_location:         "Cedar Rapids, Iowa"
-resume_header_phone:            "805-234-7399"
+resume_name:                    "Oreoluwa Adesina"
+resume_title:                   "Electrical Engineer/Consultant"
+resume_contact_email:           "oreoluwaadesina40@gmail.com"
+resume_header_location:         "Baltimore, Maryland"
+resume_header_phone:            "443-653-5783"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
